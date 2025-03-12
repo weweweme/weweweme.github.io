@@ -25,15 +25,14 @@ linkedin_username: jinsoo-joo
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  1년차 유니티 클라이언트 프로그래머로서 경일 게임 아카데미 모바일 게임 개발과정을 수료하고, 2024년 출시한 모바일 온라인 스포츠 게임 WILD BOWL : ZOOPORTS의 클라이언트 개발을 담당하였고, 2025년 스팀 출시한 인디게임 KEEPING NIGHT에서 클라이언트 개발을 담당하였습니다.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  저에게 개발이란 단순히 돈을 버는 수단이 아니라, 상대방의 문제를 해결하고 서로에게 이득이 되는 결과물을 만드는 과정입니다. 이를 위해 스스로에게 엄격히 최선을 다하며, 항상 열린 자세로 배우고 변화에 유연하게 대처함으로써 더 나은 결과를 추구합니다.
+
+  또한 협업에서의 소통과 팀워크를 중요하게 생각하며, 제 3자의 객관적인 입장에서 코드를 바라보고 부족한 점을 인지하고 개선할 수 있습니다.
+
 
 content:
   - title: Projects # Title for the section

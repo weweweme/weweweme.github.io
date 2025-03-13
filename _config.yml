@@ -57,7 +57,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: 경일 게임 아카데미 모바일 게임 개발과정
         caption: 2022.12 - 2023.06
         quote: >

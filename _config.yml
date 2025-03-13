@@ -62,7 +62,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Unity 2D/3D 게임 <br>클라이언트 설계 및 구현
+        title: Unity 2D/3D <br>클라이언트 설계 및 구현
         description: | # this will include new lines to allow paragraphs
           - 유니티 엔진을 이용한 2개의 게임 출시 경험
           - 행동트리를 이용한 NPC 플레이어 AI 설계 및 구현
@@ -100,7 +100,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 경일 게임 아카데미 <br>모바일 게임 개발자 양성과정
+        title: 경일 게임 아카데미 <br>모바일 게임 개발자 양성
         caption: 2022.12 - 2023.06
         quote: >
           7개월 간의 유니티 게임 개발 교육

@@ -144,6 +144,14 @@ content:
         - Photon을 사용한 멀티플레이 개발
         - UI 시스템 설계와 MVRP 패턴을 이용한 인 게임, 아웃 게임 UI 구현
 
+
+  - title: Other Information
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [개인 개발 블로그](https://argentdarae.tistory.com/)
+      - [포트폴리오](https://drive.google.com/file/d/1efDaV7t5cc1njsFZtHHPE_a6bjUb6TAk/view?usp=drive_link)
+
+
 # Footer
 footer_show_references: true
 

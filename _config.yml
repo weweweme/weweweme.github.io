@@ -125,12 +125,24 @@ content:
           - 2D/3D 게임 개발 프로젝트 수행, 개발 프로세스 및 협업 경험
 
 
-  - title: Projects # Title for the section
+  - title: Other Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
     - layout: top-middle
       quote: >
         사이드로 진행한 간단한 프로젝트들입니다. 
+
+    - layout: left
+      title: Fall Guys (Clone)
+      caption: 2023.06 ~ 2023.07
+      link: https://github.com/KIA-PROGRAMMING-38/JKC-FallguysProject
+      quote: >
+        경일 게임 아카데미 팀 프로젝트
+      description: | # this will include new lines to allow paragraphs
+        - 프로젝트 리더로서 팀원들의 역할 분배 및 일정 관리
+        - 스테이지 로딩, 상태 관리, 기믹 등의 전반적인 스테이지 시스템 개발
+        - Photon을 사용한 멀티플레이 개발
+        - UI 시스템 설계와 MVRP 패턴을 이용한 인 게임, 아웃 게임 UI 구현
 
 # Footer
 footer_show_references: true

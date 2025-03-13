@@ -38,33 +38,34 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Experience
-      layout: list
-      content:
-        - layout: left
-          title: 주식회사 와드게임즈
-          sub_title: 유니티 클라이언트 프로그래머
-          caption: 2023.09 - 2024.08
-          link: wardgames.info
-          quote: >
-            누적 다운로드 1000+, 온라인 스포츠 게임 [WILD BOWL : ZOOPORTS] 출시
-          description: | # this will include new lines to allow paragraphs
-            - 상점, 결제 프로세스 및 광고·알림 시스템 설계 및 구현
-            - MVP 패턴을 사용한 UI 시스템 리팩토링 및 UI 연출 전반을 담당
-            - 튜토리얼 시스템 구현
-            - 애플 앱스토어 빌드 제출 및 심사 이슈 대응
+    layout: list
+    content:
+      - layout: left
+        title: 주식회사 와드게임즈
+        sub_title: 유니티 클라이언트 프로그래머
+        caption: 2023.09 - 2024.08
+        link: wardgames.info
+        quote: >
+          누적 다운로드 1000+, 온라인 스포츠 게임 [WILD BOWL : ZOOPORTS] 출시
+        description: | # this will include new lines to allow paragraphs
+          - 상점, 결제 프로세스 및 광고·알림 시스템 설계 및 구현
+          - MVP 패턴을 사용한 UI 시스템 리팩토링 및 UI 연출 전반을 담당
+          - 튜토리얼 시스템 구현
+          - 애플 앱스토어 빌드 제출 및 심사 이슈 대응
+
 
   
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: 경일 게임 아카데미 모바일 게임 개발과정
+        caption: 2022.12 - 2023.06
         quote: >
-          Short institution or course description (optional)
+          7개월 간의 유니티 게임 개발 교육
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

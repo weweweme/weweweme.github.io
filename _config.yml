@@ -100,7 +100,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 경일 게임 아카데미 <br>모바일 게임 개발과정
+        title: 경일 게임 아카데미 <br>모바일 게임 개발자 양성과정
         caption: 2022.12 - 2023.06
         quote: >
           7개월 간의 유니티 게임 개발 교육

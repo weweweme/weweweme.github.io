@@ -54,6 +54,41 @@ content:
           - 애플 앱스토어 빌드 제출 및 심사 이슈 대응
 
 
+  - title: Capabilities
+    layout: list
+    content:
+      - layout: top-middle
+        title: Unity 2D/3D 게임 클라이언트 설계 및 구현
+        description: | # this will include new lines to allow paragraphs
+          - 유니티 엔진을 이용한 2개의 게임 출시 경험
+          - 행동트리를 이용한 NPC 플레이어 AI 설계 및 구현
+          - 유니티 UGUI, MVP 패턴울 이용한 UI/UX 설계 및 구현
+          
+
+  - title: Skills
+    layout: list
+    content:
+    - layout: top-middle
+      quote: >
+        현재 업무에 사용 중이거나 사용한 경험이 있는 기술들입니다.
+
+    - layout: left
+      title: Game Client / Game Server
+      description: | # this will include new lines to allow paragraphs
+        - Unity 2D/3D, UGUI, Shader Graph, Amplify Shader Editor, C# Job System, UniRx, UniTask
+        - Mirage, Photon PUN
+        - Addressable, Unity Cloud Build, Plastic SCM
+        - VS, VS Code, Rider
+
+    - layout: left
+      title: DevOps
+      description: | # this will include new lines to allow paragraphs
+        - GitHub, Git Flow
+        - Jira, Confluence, Slack, Notion
+        - Google Drive, Google Docs, Google Sheets
+        - Azure DevOps
+        
+
   - title: Education
     layout: list
     content:
@@ -67,21 +102,6 @@ content:
           - 자료구조 및 알고리즘 학습
           - 2D/3D 게임 개발 프로젝트 수행, 개발 프로세스 및 협업 경험
 
-
-  - title: Skills
-    layout: list
-    content:
-    - layout: top-middle
-      quote: >
-        현재 업무에 사용 중이거나 사용한 경험이 있는 기술들입니다.
-
-    - layout: left
-      title: Game Client / Game Server
-      description: | # this will include new lines to allow paragraphs
-        - Unity 2D/3D, UGUI, Shader Graph, Amplify Shader Editor, C# Job System, UniRx, UniTask
-        - Mirage, Photon PUN, Client Side Prediction
-        - Addressable, Unity Cloud Build, Plastic SCM
-        - VS, VS Code, Rider
 
 
 # Footer

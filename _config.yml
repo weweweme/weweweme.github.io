@@ -27,7 +27,7 @@ linkedin_username: jinsoo-joo
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  1년차 유니티 클라이언트 프로그래머로서 2023년 경일 게임 아카데미 모바일 게임 개발과정을 수료하였고, 2024년 와드게임즈에서 근무했습니다.
+  1년차 유니티 클라이언트 프로그래머로서 2023년 경일 게임 아카데미 모바일 게임 개발과정을 수료하였고, 2024년 와드게임즈에서 유니티 클라이언트 프로그래머로 근무했습니다.
   
   2024년 출시한 모바일 온라인 스포츠 게임 [WILD BOWL : ZOOPORTS](https://drive.google.com/file/d/1YMdBGG-63N5Gk61V5LoQDDgErajbiyKx/view?usp=drive_link)의 클라이언트 개발을 담당하였고, 2025년 스팀 출시한 인디게임 [KEEPING NIGHT](https://drive.google.com/file/d/1XYowUJaaYr2ZNqdmIjAWHzcmgGxQ8KB9/view?usp=drive_link)에서 클라이언트 개발을 담당하였습니다.
 
@@ -37,38 +37,23 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+      layout: list
+      content:
+        - layout: left
+          title: 주식회사 와드게임즈
+          sub_title: 유니티 클라이언트 프로그래머
+          caption: 2023.09 - 2024.08
+          link: wardgames.info
+          quote: >
+            누적 다운로드 1000+, 온라인 스포츠 게임 [WILD BOWL : ZOOPORTS] 출시
+          description: | # this will include new lines to allow paragraphs
+            - 상점, 결제 프로세스 및 광고·알림 시스템 설계 및 구현
+            - MVP 패턴을 사용한 UI 시스템 리팩토링 및 UI 연출 전반을 담당
+            - 튜토리얼 시스템 구현
+            - 애플 앱스토어 빌드 제출 및 심사 이슈 대응
+
+  
   - title: Education
     layout: list
     content:

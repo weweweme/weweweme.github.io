@@ -80,8 +80,11 @@ content:
         title: Unity 2D/3D <br>클라이언트 설계 및 구현
         description: | # this will include new lines to allow paragraphs
           - 유니티 엔진을 이용한 2개의 게임 출시 경험
-          - 행동트리를 이용한 NPC 플레이어 AI 설계 및 구현
-          - 유니티 UGUI, MVP 패턴울 이용한 UI/UX 설계 및 구현
+          - UniRx와 MVP 패턴을 이용한 UI/UX 설계 및 구현
+          - Google Firebase, AdMob을 이용한 푸시 알림 기능 및 광고 시스템 구현
+          - Unity IAP를 이용한 결제 시스템 구현
+          - Mirage를 이용한 데디케이트 서버 방식 멀티플레이 구현
+          - Photon PUN을 이용한 P2P 방식 멀티플레이 구현
           
 
   - title: Skills
@@ -98,7 +101,7 @@ content:
         - UniRx, UniTask, DOTween, ZString, Input System
         - Mirage, Photon PUN, REST API
         - Addressable, Unity Cloud Build
-        - Google Firebase, AdMob
+        - Google Firebase, AdMob, Unity IAP
         - VS, VS Code, Rider
 
     - layout: left
@@ -133,7 +136,7 @@ content:
         기타 개인 프로젝트 및 팀 프로젝트 경험입니다.
 
     - layout: left
-      title: 운빨존많겜 인게임(전투) (Clone)
+      title: 운빨존많겜 인게임 (Clone)
       caption: 2025.03.05 ~ 2025.03.09
       link: https://github.com/weweweme/lucky_defense_clone_project
       quote: >

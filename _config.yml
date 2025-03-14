@@ -51,7 +51,7 @@ content:
           </a> 개발 및 Steam 출시
 
         description: | # this will include new lines to allow paragraphs
-          - 전체 씬 구조 설계, 로딩 및 오디오 시스템 구현
+          - [전체 씬 구조 설계](https://argentdarae.tistory.com/9), 로딩 및 오디오 시스템 구현
           - UI 시스템 설계 및 구현
           - 무기, 스킬, 버프, 시야 기믹 등 인게임 시스템 설계 및 구현
 
@@ -69,7 +69,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 상점, 결제 프로세스 및 광고·알림 시스템 설계 및 구현
           - MVP 패턴을 사용한 UI 시스템 리팩토링 및 UI 연출 전반을 담당
-          - 튜토리얼 시스템 구현
+          - [튜토리얼 시스템 구현](https://argentdarae.tistory.com/14)
           - 애플 앱스토어 빌드 제출 및 심사 이슈 대응
 
 
@@ -133,6 +133,19 @@ content:
         기타 개인 프로젝트 및 팀 프로젝트 경험입니다.
 
     - layout: left
+      title: 운빨존많겜 인게임(전투) (Clone)
+      caption: 2025.03.05 ~ 2025.03.09
+      link: https://github.com/weweweme/lucky_defense_clone_project
+      quote: >
+        짧은 시간 내 최대한 유사한 수준의 완성도로 구현하는 것을 목표로 한 챌린지 프로젝트
+      description: | # this will include new lines to allow paragraphs
+        - [UniRx와 MVP 패턴을 이용한 UI 시스템 구현](https://argentdarae.tistory.com/37)
+        - [에너미와 유닛 프리팹 구조 설계](https://argentdarae.tistory.com/38)
+        - [에너미와 유닛 재활용을 위한 풀링 시스템 구현](https://argentdarae.tistory.com/39)
+        - [유닛 배치 필드 구현](https://argentdarae.tistory.com/40)
+        - [AI Player 동작 구현](https://argentdarae.tistory.com/41)
+
+    - layout: left
       title: Fall Guys (Clone)
       caption: 2023.06 ~ 2023.07
       link: https://github.com/KIA-PROGRAMMING-38/JKC-FallguysProject
@@ -143,7 +156,6 @@ content:
         - 스테이지 로딩, 상태 관리, 기믹 등의 전반적인 스테이지 시스템 개발
         - Photon을 사용한 멀티플레이 개발
         - UI 시스템 설계와 MVRP 패턴을 이용한 인 게임, 아웃 게임 UI 구현
-
 
   - title: Other Information
     layout: text

@@ -136,7 +136,7 @@ content:
         기타 개인 프로젝트 및 팀 프로젝트 경험입니다.
 
     - layout: left
-      title: 운빨존많겜 인게임 (Clone)
+      title: 운빨존많겜 인게임(전투) (Clone)
       caption: 2025.03.05 ~ 2025.03.09
       link: https://github.com/weweweme/lucky_defense_clone_project
       quote: >
@@ -157,7 +157,7 @@ content:
       description: | # this will include new lines to allow paragraphs
         - 프로젝트 리더로서 팀원들의 역할 분배 및 일정 관리
         - 스테이지 로딩, 상태 관리, 기믹 등의 전반적인 스테이지 시스템 개발
-        - Photon을 사용한 멀티플레이 개발
+        - Photon을 사용한 P2P 방식 멀티플레이 구현
         - UI 시스템 설계와 MVRP 패턴을 이용한 인 게임, 아웃 게임 UI 구현
 
   - title: Other Information

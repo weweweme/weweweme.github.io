@@ -11,6 +11,12 @@
         </a>
       {%- endif -%}
 
+      {%- if item.github_link -%}
+        <p>
+          <a href="{{ item.github_link }}" target="_blank">Github</a>
+        </p>
+      {%- endif -%}
+
       <p class="no-print aditional-links">
         {% for link in item.additional_links %}
           {% include a.html href=link.url class="" %}

@@ -138,7 +138,7 @@ content:
     - layout: left
       title: 운빨존많겜 인게임(전투) (Clone)
       caption: 2025.03.05 ~ 2025.03.09
-      custom_link: <a href="https://github.com/weweweme/lucky_defense_clone_project" target="_blank">Github</a>
+      github_link: https://github.com/weweweme/lucky_defense_clone_project
       quote: >
         짧은 시간 내 최대한 유사한 수준의 완성도로 구현하는 것을 목표로 한 챌린지 프로젝트
       description: | # this will include new lines to allow paragraphs
@@ -151,7 +151,7 @@ content:
     - layout: left
       title: Fall Guys (Clone)
       caption: 2023.06 ~ 2023.07
-      custom_link: <a href="https://github.com/KIA-PROGRAMMING-38/JKC-FallguysProjectt" target="_blank">Github</a>
+      github_link: https://github.com/KIA-PROGRAMMING-38/JKC-FallguysProject
       quote: >
         경일 게임 아카데미 팀 프로젝트
       description: | # this will include new lines to allow paragraphs
